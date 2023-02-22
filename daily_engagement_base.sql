@@ -1,3 +1,4 @@
+----------main dashboard base query-----------------------
 with
 
   base_table as
